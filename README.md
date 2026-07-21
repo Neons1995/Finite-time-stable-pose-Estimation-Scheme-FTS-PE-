@@ -1,0 +1,1 @@
+This folder contains real-time experimental results for estimating pose of the Zed 2i camera while looking at wild fires with the algorithm running on NVIDEA Jetson Orion nano GPU , contains stored point cloud data sets.  https://sumailsyr-my.sharepoint.com/:u:/r/personal/neonsrin_syr_edu/Documents/pine%20bush%20burn%20-%20FTSPE/wildfire.zip?csf=1&web=1&e=hpaBlx. 
